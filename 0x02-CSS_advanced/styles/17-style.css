@@ -116,6 +116,10 @@ h1, h2, h3, h4, h5, h6 {
     --footer-padding: 5rem 0 1rem;
 }
 
+.footer {
+    padding: var(--footer-padding);
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
 /* Document
